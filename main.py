@@ -3,8 +3,8 @@ import requests
 from datetime import datetime
 import time
 
-EMAIL = "tumbafavour1@gmail.com"
-PASSWORD = "bsotqfhhahrugdvr"
+EMAIL = ""
+PASSWORD = ""
 
 MY_LAT = 51.507351  # Your latitude
 MY_LONG = -0.127758  # Your longitude
